@@ -10,10 +10,6 @@
  */
 public interface store {
 
-    /*
-* Add item with given unique name (ID) and quantity into
-* cart. Name is case-sensitive.
-     */
  /*
 * Add item with given unique name (ID) and quantity into
 * cart. Name is case-sensitive.
