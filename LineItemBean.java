@@ -17,7 +17,7 @@ public class LineItemBean  implements LineItem, Comparable<LineItemBean> {
   
     @Override
     public String getName() {
-        return(name);
+        return(name);  
     }
     
     public double getPrice() {
